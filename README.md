@@ -1,4 +1,4 @@
-# Duboko učenje 1 – Neslužbena rješenja međuispita
+# Duboko učenje 1 – Neslužbena rješenja ispitnih zadataka
 
 Ovaj repozitorij sadrži **neslužbena**, detaljno raspisana rješenja ispitnih zadataka s iz predmeta **Duboko učenje 1** (Fakultet elektrotehnike i računarstva, Sveučilište u Zagrebu). 
 
